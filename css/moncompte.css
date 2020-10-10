@@ -1,0 +1,28 @@
+body
+{
+    margin:0;
+}
+.image
+{
+    height:200px;
+    width:200px;
+    border:2px solid;
+    overflow:hidden;
+}
+.img
+{
+    width:200px;
+}
+#image-form
+{
+    display: none;
+}
+.insimg 
+{
+    border: 2px dashed ;
+    margin-top:60px ;
+    text-align:center ;
+    width:200px; 
+} 
+
+

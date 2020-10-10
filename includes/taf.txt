@@ -1,0 +1,12 @@
+<h1>travail à faire</h1>
+faire des conditions ternaires :echo condition ? si vrai : si faux;
+regarder pas mal de tuto
+apprendre ajax
+faire un peu de js très importatnt!!!
+modifier la partie mot de passe de paramètre
+trouver un bon disigne
+permmettre d'ajouter un avatar dès l'inscription
+faire un diaporama au niveau du profil
+avoir un idéé du but précis du site
+kouakou
+faissal
